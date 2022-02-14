@@ -1,0 +1,17 @@
+h1 {
+   font-size: 40px; 
+   font-family: Arial, Helvetica, sans-serif;
+   color: white;
+   background-color:goldenrod ;
+   text-align: center;
+}
+
+.recipes {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipes.odd {
+ background-color: rgba(211, 211, 211, 0.561);
+
+}
